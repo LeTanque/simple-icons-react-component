@@ -31,3 +31,4 @@ function BlackReactIcon() {
 
 * `name`(required) : The name of icons shown at [SimpleIcons.org](https://simpleicons.org). The name has to be matched exactly and it is case-sensitive. Otherwise, it will return `null`.
 * `color`(optional) : Color of an icon. It needs to be valid for CSS color. If it is not set, it will fall back to the default color.
+* `className`(optional) : Any old class name.

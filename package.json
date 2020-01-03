@@ -17,13 +17,13 @@
     "name": "Jaehwan Moon",
     "email": "mkch115@gmail.com"
   },
-  "homepage": "https://github.com/cokencode/simple-icons-react-component",
+  "homepage": "https://github.com/letanque/simple-icons-react-component",
   "bugs": {
-    "url": "https://github.com/cokencode/simple-icons-react-component/issues"
+    "url": "https://github.com/letanque/simple-icons-react-component/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cokencode/simple-icons-react-component"
+    "url": "git+https://github.com/letanque/simple-icons-react-component"
   },
   "license": "MIT",
   "scripts": {
