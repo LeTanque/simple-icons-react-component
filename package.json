@@ -29,7 +29,6 @@
   "scripts": {
     "test": "jest",
     "build": "npm run clean && babel src -d lib",
-    "install": "npm run clean && babel src -d lib",
     "clean": "rm -rf lib && mkdir lib"
   },
   "dependencies": {
