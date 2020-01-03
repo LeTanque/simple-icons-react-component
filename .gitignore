@@ -86,4 +86,4 @@ typings/
 !.vscode/extensions.json
 
 # build directory
-lib/
+# lib/

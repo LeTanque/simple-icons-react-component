@@ -11,7 +11,11 @@
   ],
   "main": "lib/index.js",
   "files": [
-    "lib"
+    "README.md",
+    "lib",
+    "src",
+    "index.js",
+    "SimpleIcon.js"
   ],
   "author": {
     "name": "Jaehwan Moon",
