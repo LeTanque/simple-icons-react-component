@@ -25,10 +25,15 @@ function ReactIcon() {
 function BlackReactIcon() {
   return <SimpleIcons name="React" color="black" />;
 }
+
+function ReactIconClass() {
+  return <SimpleIcons name="React" className="custom-classname" />;
+}
+
 ```
 
 ## Props
 
 * `name`(required) : The name of icons shown at [SimpleIcons.org](https://simpleicons.org). The name has to be matched exactly and it is case-sensitive. Otherwise, it will return `null`.
 * `color`(optional) : Color of an icon. It needs to be valid for CSS color. If it is not set, it will fall back to the default color.
-* `className`(optional) : Any old class name.
+* `className`(optional) : Any arbitrary classname that will give the ability to style in CSS.
